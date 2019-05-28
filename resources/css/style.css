@@ -368,7 +368,7 @@ blockquote {
 blockquote:before {
     content: "\201C";
     font-size: 500%;
-    display: block;
+        display: block;
     position: absolute;
     top: -5px;
     left: -3px;
@@ -378,10 +378,7 @@ cite {
     font-size: 90%;
     margin-top: 25px;
     display: block;
-
 }
-
-
 
 cite img {
     height: 45px;
