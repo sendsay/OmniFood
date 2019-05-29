@@ -400,16 +400,14 @@ cite img {
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
+    box-shadow: 5px 5px 5px 1px #d6d5d5;
 }
 
 .plan-box div {
     padding: 15px;
-    border-bottom: 1px solid #fcfcfc;
-    box-shadow: 0 2px 2px #efefef;
 }
 
 .plan-box div:first-child {
-    /* background-color: #f7f7f7; */
    border-radius: 2px 2px 0 0; 
 }
 
@@ -441,4 +439,10 @@ cite img {
 .plan-box ul li {
     padding: 5px 0;
 }
+
+.plan-box ul li span {
+    color: #c0c0c0;
+}
+
+
 
